@@ -55,6 +55,7 @@ const RAW_WORDS = [
   'sharks',
   'glocal',
   'crypto',
+  'goblin',
 ]
 
 export let WORDS = RAW_WORDS.filter(function (elem, index, self) {
