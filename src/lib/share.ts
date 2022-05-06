@@ -26,7 +26,8 @@ export const shareStatus = (
       solution,
       guesses,
       getEmojiTiles(isDarkMode, isHighContrastMode)
-    )
+    ) +
+    '\nhttps://glizzle.tropicbliss.net/'
 
   const shareData = { text: textToShare }
 
