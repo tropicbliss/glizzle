@@ -17793,14 +17793,6 @@ export let VALID_GUESSES = [
   'niello',
   'nieves',
   'niffer',
-  'nigged',
-  'nigger',
-  'nigget',
-  'niggle',
-  'niggly',
-  'niggot',
-  'niggra',
-  'niggun',
   'nighed',
   'nigher',
   'nighly',
@@ -21796,7 +21788,6 @@ export let VALID_GUESSES = [
   'retama',
   'retame',
   'retape',
-  'retard',
   'retare',
   'retear',
   'retell',
@@ -29875,6 +29866,7 @@ export let VALID_GUESSES = [
   'zuisin',
   'zunian',
   'zurich',
+  'boobie',
 ]
 
 for (let newWord in WORDS) {
