@@ -1,4 +1,4 @@
-const RAW_WORDS = [
+export const WORDS = [
   'coffee',
   'glizzy',
   'boomer',
@@ -55,7 +55,3 @@ const RAW_WORDS = [
   'sheesh',
   'whaale',
 ]
-
-export let WORDS = RAW_WORDS.filter(function (elem, index, self) {
-  return index === self.indexOf(elem)
-})
