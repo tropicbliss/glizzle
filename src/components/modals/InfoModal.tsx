@@ -29,7 +29,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           target={'_blank'}
           rel="noreferrer"
         >
-          Provide feedback
+          Provide feedback or suggest/remove a word
         </a>
       </p>
 
