@@ -36,7 +36,6 @@ const RAW_WORDS = [
   'morbin',
   'gambit',
   'burgzy',
-  'clowns',
   'amogus',
   'factor',
   'darren',
@@ -52,9 +51,11 @@ const RAW_WORDS = [
   'rocist',
   'fizics',
   'senile',
-  'sharks',
   'glocal',
   'crypto',
+  'goblin',
+  'brands',
+  'sheesh',
   'whaale',
 ]
 
