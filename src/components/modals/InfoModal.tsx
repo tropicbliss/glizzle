@@ -26,10 +26,11 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           value="W"
           status="correct"
         />
-        <Cell value="E" />
-        <Cell value="A" />
+        <Cell value="O" />
         <Cell value="R" />
-        <Cell value="Y" />
+        <Cell value="L" />
+        <Cell value="D" />
+        <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter W is in the word and in the correct spot.
@@ -37,14 +38,15 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
 
       <div className="flex justify-center mb-1 mt-4">
         <Cell value="P" />
-        <Cell value="I" />
+        <Cell value="E" />
         <Cell
           isRevealing={true}
           isCompleted={true}
           value="L"
           status="present"
         />
-        <Cell value="O" />
+        <Cell value="L" />
+        <Cell value="E" />
         <Cell value="T" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
@@ -52,11 +54,12 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="V" />
-        <Cell value="A" />
         <Cell value="G" />
+        <Cell value="R" />
+        <Cell value="O" />
         <Cell isRevealing={true} isCompleted={true} value="U" status="absent" />
-        <Cell value="E" />
+        <Cell value="T" />
+        <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter U is not in the word in any spot.
