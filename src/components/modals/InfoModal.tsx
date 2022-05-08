@@ -87,7 +87,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         </a>
       </p>
 
-      <p className="mt-6 text-sm text-gray-500 dark:text-gray-300">
+      <p className="mt-6 text-xs text-gray-500 dark:text-gray-300">
         Thanks to tato for coming up with the name and Oxy for being an awesome person.
       </p>
     </BaseModal>
