@@ -14,7 +14,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         change to show how close your guess was to the word.
       </p>
 
-      <p className="text-sm text-gray-500 dark:text-gray-300">
+      <p className="text-sm mt-6 text-gray-500 dark:text-gray-300">
         This is a Wordle clone made for the Atrioc community. I hope the one and
         only Brandino "Coffee Cow" Ewing likes it, perchance.
       </p>
