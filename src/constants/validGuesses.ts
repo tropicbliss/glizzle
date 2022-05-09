@@ -29920,4 +29920,5 @@ export const VALID_GUESSES = [
   'brands',
   'sheesh',
   'whaale',
+  'blippy',
 ]
