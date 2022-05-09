@@ -29921,4 +29921,7 @@ export const VALID_GUESSES = [
   'sheesh',
   'whaale',
   'blippy',
+  'jensen',
+  'stream',
+  'bloons',
 ]
